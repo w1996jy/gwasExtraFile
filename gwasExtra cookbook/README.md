@@ -1,6 +1,7 @@
 # gwasExtra cookbook
 gwasExtra is an R package or Shiny application specifically designed for Genome-Wide Association Studies (GWAS), aimed at providing additional functionalities and tools to assist researchers in processing, visualizing, and analyzing GWAS data.
 Home page
+
 ![image](https://github.com/user-attachments/assets/f676b111-ce29-437c-b50a-ad3d27342306)
 
 ## Data check
